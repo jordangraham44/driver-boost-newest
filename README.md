@@ -25,9 +25,6 @@
 
 </div>
 
-<div align="center">
-<img width="686" height="386" alt="hq720 - 2026-07-29T233843 405" src="https://github.com/user-attachments/assets/3dc9894d-b949-4557-857f-a03190e9b3fe" />
-
 </div>
 
 ---
